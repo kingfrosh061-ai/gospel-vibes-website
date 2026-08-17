@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#b98224"/>
+      <stop offset=".5" stop-color="#f2d078"/>
+      <stop offset="1" stop-color="#c49332"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="220" rx="34" fill="#090909"/>
+  <circle cx="110" cy="110" r="72" fill="none" stroke="url(#gold)" stroke-width="7"/>
+  <path d="M110 48c-22 0-39 17-39 39v35c0 22 17 39 39 39s39-17 39-39V87c0-22-17-39-39-39Zm0 14c14 0 25 11 25 25v35c0 14-11 25-25 25s-25-11-25-25V87c0-14 11-25 25-25Z" fill="url(#gold)"/>
+  <path d="M57 104v18c0 29 23 53 53 53s53-24 53-53v-18h-14v18c0 21-17 39-39 39s-39-18-39-39v-18H57Zm46 73v20h14v-20h-14Z" fill="url(#gold)"/>
+  <path d="M177 62c18 6 30 22 30 42 0 16-7 30-19 38l-9-10c9-6 14-16 14-28 0-13-7-24-19-30l3-12Z" fill="url(#gold)"/>
+  <text x="225" y="104" fill="#f3dfaa" font-family="Georgia,serif" font-size="48" font-weight="700" letter-spacing="1">GOSPEL VIBES</text>
+  <text x="228" y="142" fill="#aaa39a" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">MUSIC • RECORDING • PRODUCTION</text>
+</svg>

@@ -1,0 +1,2 @@
+Open index.html in Chrome to preview Gospel Vibes locally.
+For a live URL, use Netlify Drop (https://app.netlify.com/drop) or connect the project to GitHub Pages.

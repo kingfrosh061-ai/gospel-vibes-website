@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Contact | Gospel Vibes</title><link rel="stylesheet" href="styles.css"></head>
+<body>
+<header class="site-header"><a class="brand" href="index.html"><img src="assets/gospel-vibes-logo.svg" alt="Gospel Vibes logo"></a><button class="menu-toggle">☰</button><nav class="nav"><a href="index.html">Home</a><a href="about.html">About</a><a href="services.html">Services</a><a href="studio.html">Studio</a><a href="artists.html">Artists</a><a class="active" href="contact.html">Contact</a></nav></header>
+<main><section class="page-hero"><p class="eyebrow">BOOK A SESSION</p><h1>Let's make<br><span>something powerful.</span></h1><p>Send your project details and Gospel Vibes can get back to you with availability and pricing.</p></section>
+<section class="section contact-grid">
+<form id="contactForm" class="contact-form">
+<label>Name<input required name="name" placeholder="Your name"></label>
+<label>Phone / WhatsApp<input required name="phone" placeholder="+234..."></label>
+<label>Email<input type="email" name="email" placeholder="you@example.com"></label>
+<label>Service<select name="service"><option>Recording</option><option>Music Production</option><option>Mixing</option><option>Mastering</option><option>Choir / Live Project</option></select></label>
+<label>Project details<textarea required name="message" rows="6" placeholder="Tell us about your project..."></textarea></label>
+<button class="btn primary" type="submit">Send Booking Request</button><a class="btn whatsapp" href="https://wa.me/2347071127930?text=Hello%20Gospel%20Vibes%2C%20I%27d%20like%20to%20book%20a%20studio%20session." target="_blank" rel="noopener">Book via WhatsApp</a>
+<p id="formMessage" class="form-message"></p>
+</form>
+<aside class="contact-info"><p class="eyebrow">GOSPEL VIBES</p><h2>Come create with us.</h2><p><b>Studio:</b> Lagos, Nigeria</p><p><b>Phone:</b> <a href="tel:+2347071127930">+234 707 112 7930</a></p><p><b>WhatsApp:</b> <a href="https://wa.me/2347071127930" target="_blank" rel="noopener">Chat on WhatsApp</a></p><p><b>Email:</b> <a href="mailto:Kingfemi73@gmail.com">Kingfemi73@gmail.com</a></p><div class="map-placeholder">LAGOS, NIGERIA<br><small>Studio location details can be shared after booking.</small></div></aside>
+</section></main>
+<footer class="footer"><div><a class="brand" href="index.html"><img src="assets/gospel-vibes-logo.svg" alt="Gospel Vibes logo"></a><p>Faith. Music. Excellence.</p></div><p>© 2026 Gospel Vibes • Lagos, Nigeria</p></footer><script src="script.js"></script></body></html>
